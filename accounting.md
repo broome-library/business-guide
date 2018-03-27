@@ -1,11 +1,5 @@
 # Accounting
 
-## Journal Articles in Accounting
-
-### [LexisNexis Academic - Accounting Literature](http:/summit.csuci.edu:2048/login?url=http://www.lexisnexis.com/hottopics/lnacademic/?verb=sf&sfi=AC02NBAcctSrch)
-
-> Searches articles in accounting journals, AICPA publications, trade journals, etc.
-
 ## Accounting Standards
 
 * [AICPA technical policies](http:/www.aicpa.org/Research/Standards/Pages/default.aspx)regarding financial accounting and reporting standards
@@ -31,6 +25,3 @@
 
 * [Accounting acronyms](http:/www.all-acronyms.com/tag/accounting)
 * [Accounting terminology guide](http:/www.nysscpa.org/prof_library/guide.htm)
-
-
-

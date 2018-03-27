@@ -20,12 +20,6 @@
 
 > Contains American consumer and market research reports and supporting documents covering the mid-20th century from the collection of Ernest Dichter, the era's foremost consumer analyst and market research pioneer.
 
-### Legal Cases & Litigation
-
-#### [LexisNexis Academic](http:/summit.csuci.edu:2048/login?url=http://www.lexisnexis.com/us/lnacademic)
-
-` Search in the “Look up a Legal Case” box.`
-
 ### Business – Newspapers
 
 #### [ProQuest Newspapers](http:/summit.csuci.edu:2048/login?url=http://search.proquest.com/newsstand?accountid=7284)
@@ -35,8 +29,3 @@ To search by newspaper publication:
 1. Choose the “Advanced” tab
 2. Select “Publication Title” in the drop down menu
 3. Enter your newspaper title
-
-#### [LexisNexis Academic](http:/summit.csuci.edu:2048/login?url=http://www.lexisnexis.com/us/lnacademic)
-
-`Use the “Search the News” box.`
-
