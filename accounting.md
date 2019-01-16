@@ -24,7 +24,7 @@
 ## Terminology & Guides
 
 * [Accounting acronyms](http:/www.all-acronyms.com/tag/accounting)
-* [Accounting terminology guide](http:/www.nysscpa.org/prof_library/guide.htm)
+* [Accounting terminology guide](https://www.nysscpa.org/professional-resources/accounting-terminology-guide)
 
 
 
