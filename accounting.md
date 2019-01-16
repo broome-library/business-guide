@@ -2,7 +2,7 @@
 
 ## Accounting Standards
 
-* [AICPA technical policies](http:/www.aicpa.org/Research/Standards/Pages/default.aspx)regarding financial accounting and reporting standards
+* [AICPA technical policies](http:/www.aicpa.org/Research/Standards/Pages/default.aspx) regarding financial accounting and reporting standards
 * Financial Accounting Standards Board -[FASB](http:/www.fasb.org/)
 * Government Accountability Office -[GAO](http:/www.gao.gov/index.html)
 * Governmental Accounting Standards Board -[GASB](http:/www.gasb.org/)
@@ -25,3 +25,6 @@
 
 * [Accounting acronyms](http:/www.all-acronyms.com/tag/accounting)
 * [Accounting terminology guide](http:/www.nysscpa.org/prof_library/guide.htm)
+
+
+
