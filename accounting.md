@@ -6,7 +6,7 @@
 * Financial Accounting Standards Board -[FASB](http:/www.fasb.org/)
 * Government Accountability Office -[GAO](http:/www.gao.gov/index.html)
 * Governmental Accounting Standards Board -[GASB](http:/www.gasb.org/)
-* International Accounting Standards Board -[IASB](http:/www.ifrs.org/About-us/IASB/Pages/Home.aspx)
+* International Accounting Standards Board -[IASB](https://www.ifrs.org/groups/international-accounting-standards-board/)
 
 ## Accounting Associations
 
