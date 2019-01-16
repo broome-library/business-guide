@@ -14,7 +14,7 @@
 
 ### [Emerald](http:/summit.csuci.edu:2048/login?url=http://www.emeraldinsight.com/)
 
-> _Emerald _is one of the world's leading publishers of journals and books in business and management.
+> Emerald is one of the world's leading publishers of journals and books in business and management.
 
 ### [American Consumer Culture: Market Research and American Business, 1935-1965](http:/summit.csuci.edu:2048/login?url=http://www.consumerculture.amdigital.co.uk)
 
@@ -29,3 +29,6 @@ To search by newspaper publication:
 1. Choose the “Advanced” tab
 2. Select “Publication Title” in the drop down menu
 3. Enter your newspaper title
+
+
+
