@@ -15,7 +15,7 @@
 * American Institute of Certified Public Accountants -[AICPA](http:/www.aicpa.org/)
 * California Society of CertifiedPublic Accountants -[CalCPA.org](http:/www.calcpa.org/home.htm)
 * American Accounting Association -[AAA](http:/aaahq.org/index.cfm)
-* American Society of Women Accountants -[ASWA](http:/www.aswa.org/)
+* Accounting & Financial Women's Alliance -[AFWA](https://www.afwa.org/)
 * [Beta Alpha Psi](http:/www.bap.org/)- Honorary organization for Financial Information students and professionals
 * Confederation of Asian and Pacific Accountants -[CAPA](http:/www.capa.com.my/)
 * Financial Management Association International -[FMA](http:/www.fma.org/)
