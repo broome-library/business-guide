@@ -1,9 +1,5 @@
 # Databases
 
-## Articles
-
-**Browse the library's Business Journal Titles by topic **[**here**](http:/te9lr6gh8n.search.serialssolutions.com/?V=1.0&L=TE9LR6GH8N&S=SC&C=BU).
-
 ### [ABI/Inform](http:/summit.csuci.edu:2048/login?url=http://proquest.umi.com/pqdweb?RQT=306&TS=1058457987&DBId=3#sform)
 
 > ABI/Inform covers business, finance, economics, marketing, advertising, HR, taxation, over 3,000 journals, and 60,000 company profiles, including The Wall Street Journal.
