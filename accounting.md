@@ -23,7 +23,7 @@
 
 ## Terminology & Guides
 
-* [Accounting acronyms](http:/www.all-acronyms.com/tag/accounting)
+* [Accounting acronyms](https://www.aicpa.org/press/downloadabledocuments/acronyms_and_abbreviations.pdf)
 * [Accounting terminology guide](https://www.nysscpa.org/professional-resources/accounting-terminology-guide)
 
 
