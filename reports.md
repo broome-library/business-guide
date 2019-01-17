@@ -8,7 +8,7 @@
 
 > The Electronic Data Gathering And Retrieval \(EDGAR\) at the Securities and Exchange Commission \(SEC\) provides digital access to all public disclosures and filings from every company whose shares trade on US exchanges.
 
-## [Mergent Online](http:/summit.csuci.edu:2048/login?url=http://www.mergentonline.com)
+## [Mergent Intellect](http://summit.csuci.edu/login?url=http://www.mergentintellect.com/)
 
 > Mergent covers U.S. and international company data including:
 >
