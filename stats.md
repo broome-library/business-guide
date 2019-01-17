@@ -16,7 +16,7 @@
 
 > Search Data from the U.S. Census Bureau
 
-## [U.S. Government Data & Statistics](http:/www.usa.gov/Topics/Reference_Shelf/Data.shtml)
+## [U.S. Government Data & Statistics](https://www.usa.gov/statistics)
 
 > Search data and statistics from various federal agencies. Also indexed by topic.
 
