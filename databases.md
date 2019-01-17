@@ -16,9 +16,9 @@
 
 > Emerald is one of the world's leading publishers of journals and books in business and management.
 
-### [American Consumer Culture: Market Research and American Business, 1935-1965](http:/summit.csuci.edu:2048/login?url=http://www.consumerculture.amdigital.co.uk)
+### [Business Collection \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=ITBC)
 
-> Contains American consumer and market research reports and supporting documents covering the mid-20th century from the collection of Ernest Dichter, the era's foremost consumer analyst and market research pioneer.
+> Business Collection provides worldwide full-text coverage of over 120 million articles from more than 4000 publications across multiple business disciplines and general news for context.
 
 ### Business – Newspapers
 
