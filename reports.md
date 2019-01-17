@@ -24,10 +24,6 @@
 
 > The S&P is a world leader is corporate and financial market intelligence. S&P provides investors with:credit ratings, indices, investment research, and risk evaluation. The web site offers a majority of information for free, but ratings are only for registered wholesale clients and registration is free.
 
-## [Economist Intelligence Unit](http:/summit.csuci.edu:2048/login?url=http://www.eiu.com)
-
-> EIU providescountry, industry and management analysis as well as monthly reports, five-year country economic forecasts, country risk service reports and industry reports.
-
 ## [Global Road Warrior](http:/summit.csuci.edu:2048/login?url=http://www.globalroadwarrior.com/directclient_index2.asp?c=csuci)
 
 > Database developed by World Trade Press, featuring not only country statistics but also cultural information for business and professional travelers.
