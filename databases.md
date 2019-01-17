@@ -10,7 +10,7 @@
 
 ### [Business Economics & Theory Collection \(Gale\)](http://summit.csuci.edu/login?url=http://infotrac.galegroup.com/itweb/csuci?db=PPBE)
 
-> More than 1,800 full-text academic journals and magazines—with a strong emphasis on titles covered in the EconLit bibliographic index. Intended to support startup, marketing, policies, analysis, modeling, investing, and more.
+> More than 1,800 full-text academic journals and magazines—emphasizing titles from the EconLit bibliographic index. Supports startup, marketing, policies, analysis, modeling, investing, and more.
 
 ### [Business Source Premiere](http:/summit.csuci.edu:2048/login?url=http://search.ebscohost.com/login.asp?profile=web&defaultdb=buh)
 
