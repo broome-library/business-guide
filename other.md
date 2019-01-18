@@ -1,9 +1,5 @@
 # Other Resources
 
-## Bankruptcy
-
-* [U. S. Courts Bankruptcy Statistics](http:/www.uscourts.gov/bnkrpctystats/bankruptcystats.htm)
-
 ## Taxation
 
 * [TaxSites.com](http:/www.taxsites.com/associations.html)
