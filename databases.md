@@ -20,6 +20,10 @@
 
 > Emerald is one of the world's leading publishers of journals and books in business and management.
 
+### [Market Research and American Business, 1935-1965](http://summit.csuci.edu/login?url=http://www.marketresearch.amdigital.co.uk)
+
+> Market Research and American Business, 1935-1965 provides access to reports and documents of pioneering marketer Ernest Dichter, supporting insights into the growth of the US consumer economy.
+
 ### Business – Newspapers
 
 #### [ProQuest Newspapers](http:/summit.csuci.edu:2048/login?url=http://search.proquest.com/newsstand?accountid=7284)
