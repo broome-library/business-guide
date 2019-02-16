@@ -30,7 +30,7 @@
 
 ## [Standard & Poor's](http:/www.standardandpoors.com/en_US/web/guest/home)
 
-> The S&P is a world leader is corporate and financial market intelligence. S&P provides investors with:credit ratings, indices, investment research, and risk evaluation. The web site offers a majority of information for free, but ratings are only for registered wholesale clients and registration is free.
+> The S&P is a world leader is corporate and financial market intelligence. S&P provides investors with:credit ratings, indices, investment research, and risk evaluation. The company's web site offers a variety of information at no cost, but ratings are only for registered wholesale clients and registration is free.
 
 
 
