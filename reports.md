@@ -28,9 +28,5 @@
 > * Stock prices and volume charts
 > * Industry reports
 
-## [Standard & Poor's](http:/www.standardandpoors.com/en_US/web/guest/home)
-
-> S&P is a world leader is corporate and financial market intelligence. S&P provides investors with:credit ratings, indices, investment research, and risk evaluation. The company's web site offers a variety of information at no cost, and certain ratings information are available via a free registration, but most S&P data are reserved for commercial clients.
-
 
 
